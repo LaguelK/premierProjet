@@ -1,0 +1,47 @@
+.navbar {
+    background:transparent!important;
+}
+/* HEADER RESEAUX */
+
+.fa{
+    padding: 20px;
+    font-size: 30px;
+    width: 15px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+.fa:hover {
+    opacity: 0.7;s
+}
+.fa-instagram {
+    color:#125688;
+}
+.fa-facebook {
+    color: #3B5998;
+}
+.fa-linkedin {
+    color: #007bb5;
+}  
+
+
+
+
+
+/* GREY DIVIDER */
+.grey-divider
+{
+    
+   
+    width: 85%;
+    height: 2px;
+    margin: 0 auto;
+    background: rgb(190, 182, 182);
+}
+
+/* FOOTER */
+.col-lg-offset-6 {
+    margin-left: 65%;
+  }
+
+}
